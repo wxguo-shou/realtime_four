@@ -5,8 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.atguigu</groupId>
-        <artifactId>../realtime-dwd</artifactId>
+        <artifactId>realtime-dwd</artifactId>
         <version>1.0-SNAPSHOT</version>
+         <relativePath>../realtime-dwd/pom.xml</relativePath>
     </parent>
 
     <artifactId>realtime-dwd-interaction-comment-info</artifactId>
