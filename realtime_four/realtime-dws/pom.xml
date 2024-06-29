@@ -14,17 +14,17 @@
     <packaging>pom</packaging>
     <modules>
         <module>
-            ./realtime-dws-traffic-source-keyword-page-view-window/realtime-dws-traffic-source-keyword-page-view-window
+            ./realtime-dws-traffic-source-keyword-page-view-window
         </module>
         <module>
-            ./realtime-dws-traffic-vc-ch-ar-is_new-page-view-window/realtime-dws-traffic-vc-ch-ar-is_new-page-view-window
+            ./realtime-dws-traffic-vc-ch-ar-is_new-page-view-window
         </module>
-        <module>./realtime-dws-traffic-home-detail-page-view-window/realtime-dws-traffic-home-detail-page-view-window
+        <module>./realtime-dws-traffic-home-detail-page-view-window
         </module>
-        <module>./realtime-dws-user-user-login-window/realtime-dws-user-user-login-window</module>
-        <module>./realtime-dws-user-user-register-window/realtime-dws-user-user-register-window</module>
-        <module>./realtime-dws-trade-cart-add-uu-window/realtime-dws-trade-cart-add-uu-window</module>
-        <module>./realtime-dws-trade-sku-order-window/realtime-dws-trade-sku-order-window</module>
+        <module>./realtime-dws-user-user-login-window</module>
+        <module>./realtime-dws-user-user-register-window</module>
+        <module>./realtime-dws-trade-cart-add-uu-window</module>
+        <module>./realtime-dws-trade-sku-order-window</module>
         <module>realtime-dws-trade-province-order-window</module>
     </modules>
 
