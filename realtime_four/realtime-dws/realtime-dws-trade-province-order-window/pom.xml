@@ -7,6 +7,7 @@
         <groupId>com.atguigu</groupId>
         <artifactId>realtime-dws</artifactId>
         <version>1.0-SNAPSHOT</version>
+         <relativePath>../realtime-dws/pom.xml</relativePath>
     </parent>
 
     <artifactId>realtime-dws-trade-province-order-window</artifactId>
