@@ -14,7 +14,6 @@
     <packaging>pom</packaging>
     <modules>
         <module>../realtime-dwd-base-log/realtime-dwd-base-log</module>
-        <module>../realtime-dwd-base-log/realtime-dwd-base-log</module>
         <module>realtime-dwd-interaction-comment-info</module>
         <module>../rrealtime-dwd-trade-cart-add/realtime-dwd-trade-cart-add</module>
         <module>../realtime-dwd-trade-order-detail/realtime-dwd-trade-order-detail</module>
