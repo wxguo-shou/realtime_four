@@ -9,10 +9,10 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
-        <module>./realtime-common</module>
-        <module>./realtime-dim</module>
-        <module>./realtime-dwd</module>
-        <module>./realtime-dws</module>
+        <module>./realtime_four/realtime-common</module>
+        <module>./realtime_four/realtime-dim</module>
+        <module>./realtime_four/realtime-dwd</module>
+        <module>./realtime_four/realtime-dws</module>
     </modules>
 
     <!--    <properties>-->
